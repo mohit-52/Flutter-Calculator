@@ -1,16 +1,19 @@
 # calculator
 
-A new Flutter project.
+Building A Calculator App in Flutter
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+This project covers:-
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Data types, working with strings and substrings
+If else statement
+Component
+Constructor
+Creating component/ how to create components
+How to use reusable widget or code refactoring
+Building calculator app
+Creating logic for calculator
+Showing result for calculation
